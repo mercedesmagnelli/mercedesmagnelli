@@ -1,6 +1,6 @@
 # ¡Hola! ✨😺
 
-👩 Mi nombre es Mercedes, y este es un resumen de los proyectos que considero más importantes (hasta ahora). 
+👩 Mi nombre es Mercedes, y este es un resumen de los proyectos en los que participé que considero más importantes (hasta ahora). 
 
 👩‍💻  Actualmente, me encuentro estudiando Ingeniería en Sistemas de Información en UTN FRBA desde el año 2018. 
 
@@ -8,19 +8,30 @@
 
 💻 Los lenguajes que sé a la fecha son: C, C++, Java, Haskell, Prolog. 
 
+⚡ Me gustaría aprender Python y Javascript
+
+<!--
+🌍 If you want to see this in english, click ![here](link) !
+-->
+
 
 ## Mis proyectos
 
+🚨 Todos los repositorios listados corresponden a trabajos realizados en un marco de evaluación académica. 
+
+
 ### Procedural 
 -  Trabajo práctico para la materia Sistemas Operativos, realizado en el segundo cuatrimestre del 2021. 
-  <p align="center">
+
+<p align="center">
   <a href="https://github.com/mercedesmagnelli/tp-so-2021-2C-HEAPs-dont-lie"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mercedesmagnelli&repo=tp-so-2021-2C-HEAPs-dont-lie&locale=es&theme=material-palenight"/></a>
   </p>
+  
 <!--
 Si quiero agregar otro dentro del mismo subtitulo, solamente tengo que copiar las lineas y reemplazar el link del repo
 -->
 
-### POO
+### Objetos 
  - Trabajo práctico integrador para la materia Paradigmas de Programación, que consta del desarrollo de un juego en el lenguaje [Wollok](https://www.wollok.org/)
 
  <p align="center">
@@ -28,30 +39,37 @@ Si quiero agregar otro dentro del mismo subtitulo, solamente tengo que copiar la
   </p>
 
 
-
 ### Lógico
 
 - Trabajo práctico integrador para la materia Paradigmas de Programación
 
+<p align="center">
+  <a href="https://github.com/mercedesmagnelli/tpi-logico-pdp"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin?username=mercedesmagnelli&repo=tpi-logico-pdp&show_owner=1&show_description=1&theme=material-palenight"/></a>
+  </p>
 
 ### Funcional 
 
 - Trabajo práctico integrador para la materia Paradigmas de Programación
 
+ <p align="center">
+  <a href="https://github.com/mercedesmagnelli/tpi-funcional-pdp"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin?username=mercedesmagnelli&repo=tpi-funcional-pdp&show_owner=1&show_description=1&theme=material-palenight"/></a>
+  </p>
+
+# Stats 
+
+ <p align="center">
+  <a href="https://gitstats.me/mercedesmagnelli"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercedesmagnelli&show_icons=true&theme=material-palenight"/></a>
+  <a href="https://github.com/mercedesmagnelli/github-readme-stats"><img width="40%" height="60%" src="https://github-readme-stats.vercel.app/api?username=mercedesmagnelli&show_icons=true&theme=material-palenight"/></a>
+  </p>
+  
+ # Contacto
+ 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mercedesmagnelli)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mercedes-belén-magnelli-4a7a1b167/)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedesmagnelli&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercedesmagnelli&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-este sirve para linkear repositorios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-**mercedesmagnelli/mercedesmagnelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

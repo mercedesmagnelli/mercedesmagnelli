@@ -13,13 +13,20 @@
 
 ### Procedural 
 -  Trabajo práctico para la materia Sistemas Operativos, realizado en el segundo cuatrimestre del 2021. 
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mercedesmagnelli&repo=tp-so-2021-2C-HEAPs-dont-lie&show_owner=1&show_description=1&theme=material-palenight&show_description=1)
+  <p align="center">
+  <a href="https://github.com/mercedesmagnelli/tp-so-2021-2C-HEAPs-dont-lie"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mercedesmagnelli&repo=tp-so-2021-2C-HEAPs-dont-lie&locale=es&theme=material-palenight"/></a>
+  </p>
+<!--
+Si quiero agregar otro dentro del mismo subtitulo, solamente tengo que copiar las lineas y reemplazar el link del repo
+-->
 
 ### POO
  - Trabajo práctico integrador para la materia Paradigmas de Programación, que consta del desarrollo de un juego en el lenguaje [Wollok](https://www.wollok.org/)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mercedesmagnelli&repo=tpi-poo-international_carpinchos&show_owner=1&show_description=1&theme=material-palenight)
+ <p align="center">
+  <a href="https://github.com/mercedesmagnelli/tpi-poo-international_carpinchos"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin?username=mercedesmagnelli&repo=tpi-poo-international_carpinchos&show_owner=1&show_description=1&theme=material-palenight"/></a>
+  </p>
+
 
 
 ### Lógico

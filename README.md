@@ -11,6 +11,8 @@
 
 ## Mis proyectos
 
+🚨 Todos los proyectos listados acá son realizados en un marco de evaluación universitaria, es decir, que están vistos y aprobados por el/la profesor/a a cargo del curso.
+
 # Procedural 
 -  Trabajo práctico para la materia Sistemas Operativos, realizado en el segundo cuatrimestre del 2021. 
 
